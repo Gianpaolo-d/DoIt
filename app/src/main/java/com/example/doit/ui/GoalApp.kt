@@ -43,7 +43,7 @@ fun GoalApp(viewModel: GoalManager = viewModel()) {
             // Barra superiore con il titolo dell'app
             CenterAlignedTopAppBar(
                 title = { 
-                    Text("DO IT", fontWeight = FontWeight.ExtraBold, letterSpacing = 2.sp, color = Color.White) 
+                    Text("DOIT", fontWeight = FontWeight.ExtraBold, letterSpacing = 2.sp, color = Color.White)
                 },
                 colors = TopAppBarDefaults.centerAlignedTopAppBarColors(
                     containerColor = Color(0xFF121212)
